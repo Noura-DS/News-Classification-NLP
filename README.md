@@ -82,13 +82,13 @@ Ensure you have the folder containing:
 pip install -r requirements.txt
 
 4️⃣ Run the Streamlit app
-streamlit run app.py
-This will open the interface in your browser at localhost:8501.
+* streamlit run app.py
+* This will open the interface in your browser at localhost:8501.
 
 5️⃣ Use the interface
-Enter any news text (headline or short paragraph)
-Click Classify
-See the predicted category and confidence percentage
+* Enter any news text (headline or short paragraph)
+* Click Classify
+* See the predicted category and confidence percentage.
 
 ---
 ## 🛠 Tools Used
